@@ -1,12 +1,15 @@
 {
   "name": "Most Popular Words In English Book",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
-    "start": "node source/index.js"
+    "start": "tsc && node dist/cmd/execute"
   },
   "devDependencies": {
+    "@tsconfig/node18": "^18.2.0",
+    "@types/fs-extra": "^11.0.1",
+    "@types/node": "^20.4.4",
     "fs-extra": "^11.1.1",
-    "pdfjs-dist": "^3.8.162"
+    "pdfjs-dist": "^3.8.162",
+    "typescript": "^5.1.6"
   }
 }
