@@ -1,0 +1,20 @@
+.Title--level-1 {
+    /* TODO: Добавить font-family */
+    font-size: var(--font_title1--font_size--regular);
+    font-weight: var(--font_title1--font_weight--regular);
+    line-height: var(--font_title1--line_height--regular);
+}
+
+.Title--level-2 {
+    /* TODO: Добавить font-family */
+    font-size: var(--font_title2--font_size--regular);
+    font-weight: var(--font_title2--font_weight--regular);
+    line-height: var(--font_title2--line_height--regular);
+}
+
+.Title--level-3 {
+    /* TODO: Добавить font-family */
+    font-size: var(--font_title3--font_size--regular);
+    font-weight: var(--font_title3--font_weight--regular);
+    line-height: var(--font_title3--line_height--regular);
+}

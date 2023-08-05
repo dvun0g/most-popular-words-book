@@ -1,0 +1,17 @@
+.Typography--normalize {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.Typography--weight-1 {
+    font-weight: var(--font_weight1);
+}
+
+.Typography--weight-2 {
+    font-weight: var(--font_weight2);
+}
+
+.Typography--weight-3 {
+    font-weight: var(--font_weight3);
+}
